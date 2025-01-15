@@ -78,10 +78,12 @@ Data Sources (Publicly Available)
 
 Internal Temporary Notes
 -------------
+## Data Quality Standard
+FAIR Principle: 
+## Data Source Standard/Guidance
+TRUST Principle: https://www.nature.com/articles/s41597-020-0486-7 
 
-Examples of attributes to describe for each resource
+Attributes to describe
 
-* one-time cohort vs any-time/on-demand access.
-* free vs paid.
-* dates each resource was introduced and last updated.
-* [TRUST](https://www.nature.com/articles/s41597-020-0486-7) & [FAIR](https://www.go-fair.org/fair-principles/) Principles _suggested by Etienne Gnimpieba Z.
+* one-time cohort vs any-time/on-demand access
+* free vs paid
